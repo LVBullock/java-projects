@@ -1,2 +1,2 @@
 # java-projects
-Contains a list of source files completed.
+This repository contains Java source files for assignments completed by Laura Bullock.

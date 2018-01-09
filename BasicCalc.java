@@ -18,7 +18,7 @@ public class BasicCalc {
         //Ask user for first number
         System.out.print("Enter first number here --> ");
         //assign value for first number and pause for user input
-        num1 = calc.nextDouble(); //.next____ should be the same data type used in variable
+        num1 = calc.nextDouble();
         
         //Ask user for second number   
         System.out.print("Enter second number here --> ");

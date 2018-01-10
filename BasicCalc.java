@@ -10,6 +10,8 @@
 import java.util.Scanner; //Scanner is a built-in function of Java.
 
 public class BasicCalc {
+    
+    //main method
     public static void main(String[] args) {
         Scanner calc = new Scanner(System.in);
         

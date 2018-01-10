@@ -8,7 +8,7 @@
  */
 public class Variables {
     public static void main(String[] args) {
-        String javaGirl;                                                              //declare a variable
+        String javaGirl;                                                              //declare a String variable
         javaGirl = "I am learning to code in Java.  We shall name her JAVA GIRL!";    //assigning a value to the variable javaGirl
         
         System.out.println(javaGirl);

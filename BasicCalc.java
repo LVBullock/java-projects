@@ -7,7 +7,7 @@
  * Jan 9, 2018
  * @author Laura V. Bullock
  */
-import java.util.Scanner;
+import java.util.Scanner; //Scanner is a built-in function of Java.
 
 public class BasicCalc {
     public static void main(String[] args) {
@@ -37,6 +37,5 @@ public class BasicCalc {
  * NOTES/COMMENTS:  
  * - data types:  double = decimals, int = whole numbers
  * - .next____() should be the same data type used in variable
- * - 
- * - 
+ * - In order to get + and = to print as text, they must be placed between quotes
  */

@@ -2,7 +2,8 @@
  * Independent Study
  * Course Subject:  Java
  * Exercise:  Basic Calculator
- * Objective:  This program is developing a basic calculator using variables
+ * Objective:  This program is developing a basic calculator using variables,
+ *             get user input for 2 numbers, add the numbers and display the result.
  * Jan 9, 2018
  * @author Laura V. Bullock
  */

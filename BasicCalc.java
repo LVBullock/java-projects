@@ -17,12 +17,12 @@ public class BasicCalc {
         double num1, num2, result; 
         
         //Ask user for first number
-        System.out.print("Enter first number here --> ");
+        System.out.print("Enter first number here and hit enter --> ");
         //assign value for first number and pause for user input
         num1 = calc.nextDouble();
         
         //Ask user for second number   
-        System.out.print("Enter second number here --> ");
+        System.out.print("Enter second number here and hit enter --> ");
         //assign value for second number and pause for user input
         num2 = calc.nextDouble(); 
         
